@@ -19,7 +19,7 @@ haxelib install hxnotitgframework
 Or GitHub:
 
 ```bash
-git clone https://github.com/Slushi-Github/HxNotITGFramework.git
+haxelib git hxnotitgframework https://github.com/Slushi-Github/HxNotITGFramework.git
 ```
 
 ## License
