@@ -1,0 +1,15 @@
+{
+    "name": "hxnotitgframework",
+    "license": "MIT",
+    "description": "A library for creating NotITG modcharts using Haxe",
+    "version": "0.1.0",
+    "releasenote": "",
+    "contributors": [
+        "Slushi"
+    ],
+    "tags": [
+        "reflaxe"
+    ],
+    "dependencies": {},
+    "url": "https://github.com/Slushi-Github/HxNotITGFramework"
+}
